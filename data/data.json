@@ -1,0 +1,131 @@
+{
+    "products" :[
+        {
+            "id" : 1,
+            "title": "Coffee and Pastries",
+            "type": "Coffee",
+            "description": "Coffee and Pastries",
+            "filename": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/flat-white-3402c4f.jpg?quality=90&webp=true&resize=500,454",
+            "height": 600,
+            "width": 400,
+            "price": 28.1,
+            "rating": 4
+        },
+        {
+            "id" : 2,
+            "title": "Sweet fresh stawberry",
+            "type": "fruit",
+            "description": "Sweet fresh stawberry on the wooden table",
+            "filename": "https://insanelygoodrecipes.com/wp-content/uploads/2021/08/Chocolate-Covered-Strawberries-with-Chocolate-Syrup-1365x2048.webp",
+            "height": 450,
+            "width": 299,
+            "price": 29.45,
+            "rating": 4
+          }, {
+            "id" : 3,
+            "title": "Cup-of-Hot-Chocolate",
+            "type": "Chocolate",
+            "description": "Cup of Hot Chocolate",
+            "filename": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Hei%C3%9Fe_Schokolade.jpg",
+            "height": 450,
+            "width": 299,
+            "price": 18.95,
+            "rating": 3
+          }, {
+            "id" : 4,
+            "title": "Green smoothie",
+            "type": "dairy",
+            "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
+            "filename": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2020/01/Green-Smoothie-Recipe-7.jpg",
+            "height": 600,
+            "width": 399,
+            "price": 17.68,
+            "rating": 4
+          },
+          {
+            "id" : 5,
+            "title": "Baking cake",
+            "type": "dairy",
+            "description": "Baking cake in rural kitchen - dough  recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.",
+            "filename": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/triple-chocolate-peanut-butter-layer-cake-2-06eee24.jpg?quality=90&resize=500,454",
+            "height": 450,
+            "width": 675,
+            "price": 11.14,
+            "rating": 4
+          },
+          {
+            "id" : 6,
+            "title": "Hazelnut in black ceramic bowl",
+            "type": "vegetable",
+            "description": "Hazelnut in black ceramic bowl on old wooden background. forest wealth. rustic style. selective focus",
+            "filename": "https://media.istockphoto.com/photos/homemade-hazelnut-spread-in-glass-bowl-picture-id590135530?k=20&m=590135530&s=612x612&w=0&h=DKdLgKKAXxUD9Cu3YLmfXuYmJL-b4Eb04xc-Nt_NapQ=",
+            "height": 450,
+            "width": 301,
+            "price": 27.35,
+            "rating": 0
+          }, {
+            "id" : 7,
+            "title": "Fresh stawberry",
+            "type": "fruit",
+            "description": "Sweet fresh stawberry on the wooden table",
+            "filename": "https://www.savoringthegood.com/wp-content/uploads/2019/06/strawberry-topping-2-1.jpg",
+            "height": 600,
+            "width": 399,
+            "price": 28.59,
+            "rating": 4
+          },{
+            "id" : 8,
+            "title": "Strawberry jelly",
+            "type": "fruit",
+            "description": "Homemade organic strawberry jelly in a jar",
+            "filename": "https://hips.hearstapps.com/ame-prod-redonline-assets.s3.amazonaws.com/main/thumbs/2209/1375866733-strawberry-and-rose-jelly.jpg?crop=1xw:0.5xh;center,top&resize=480:*",
+            "height": 400,
+            "width": 600,
+            "price": 14.18,
+            "rating": 1
+          }, {
+            "id" : 9,
+            "title": "Pears juice",
+            "type": "fruit",
+            "description": "Fresh pears juice on the wooden table",
+            "filename": "https://vaya.in/recipes/wp-content/uploads/2018/05/shutterstock_161373047.jpg",
+            "height": 600,
+            "width": 398,
+            "price": 19.49,
+            "rating": 4
+          },
+          {
+            "id" : 10,
+            "title": "Strawberry smoothie",
+            "type": "fruit",
+            "description": "Glass of red strawberry smoothie with chia seeds, served with retro cocktail tube, fresh mint and strawberries over dark background",
+            "filename": "https://www.thespruceeats.com/thmb/ZOWsqgxRFj8DNEYS4YpbjsLrrJ8=/3648x3648/smart/filters:no_upscale()/strawberry-breakfast-smoothie-recipe-2097149-hero-02-5c1d4b2a46e0fb00014bf2ec.jpg",
+            "height": 600,
+            "width": 400,
+            "price": 28.86,
+            "rating": 2
+          },
+          { 
+            "id" : 11,
+            "title": "Peaches smoothie",
+            "type": "fruit",
+            "description": "Peaches on branch with leaves and glasses with peach juice and limonade with ice cubes in aluminum tray over old metal table. dark rustic style. top view.",
+            "filename": "https://www.dinneratthezoo.com/wp-content/uploads/2018/05/peach-smoothie-6.jpg",
+            "height": 600,
+            "width": 400,
+            "price": 25.62,
+            "rating": 3
+          },
+          {
+            "id" : 12,
+            "title": "Fruit Pizza",
+            "type": "fruit",
+            "description": "Abstract citrus fruits bouquet on blue background",
+            "filename": "https://i.pinimg.com/736x/20/49/22/2049220b25b33a5f785aacf34e6d0404--fruit-party-fruit-pizzas.jpg",
+            "height": 600,
+            "width": 401,
+            "price": 18.18,
+            "rating": 1
+          }
+    ]
+}
