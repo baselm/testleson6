@@ -47,7 +47,7 @@ useEffect(() => {
         <Grid container >
         <Grid item lg={12}>
         <Typography component="h2" variant="h1" color="secondary" align="center" sx={{mt:4}}>
-                 Products Page 
+                 My Products Page 
                  
         </Typography>
         <LinearProgress variant="determinate" value={progress} color="secondary"/>
